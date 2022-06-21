@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">apka3_DW</string>
+    <string name="strona_url">Strona url:</string>
+    <string name="google_com">google.com</string>
+    <string name="pobierz_informacje">Pobierz informacje!</string>
+    <string name="rozmiar_pliku">Rozmiar pliku</string>
+    <string name="typ_pliku">Typ pliku</string>
+    <string name="pobierz_plik">Pobierz plik</string>
+    <string name="pobrano_bajtow">Pobrano bajtow:</string>
+    <string name="https_file_examples_com_storage_fece7372cf62a47bc9626b9_2017_10_file_example_jpg_2500kb_jpg">https://file-examples.com/storage/fece7372cf62a47bc9626b9/2017/10/file_example_JPG_2500kB.jpg</string>
+</resources>
